@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lottery Analyst"
+  short_description: "Official lottery history analysis and review"
+  default_prompt: "Use $lottery-analyst to analyze official SSQ or DLT history."

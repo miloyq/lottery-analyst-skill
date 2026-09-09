@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+lottery-data/
+# Generated diagnostics can contain local paths, account data, and runtime details.
+artifacts/
+.agents/
+.env
+.env.*
+!.env.example
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.pem
+*.key
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+Thumbs.db
+dist/
+build/
+*.egg-info/
